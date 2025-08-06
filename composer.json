@@ -1,7 +1,7 @@
 {
-    "name": "symfony/ux-react",
+    "name": "mrskhris/ux-react19",
     "type": "symfony-bundle",
-    "description": "Integration of React in Symfony",
+    "description": "Integration of React 19 in Symfony",
     "keywords": [
         "symfony-ux"
     ],
